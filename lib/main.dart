@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MaterialApp(
-    // title: 'data',
+    title: 'data',
     home: Homebody(),
   ));
 }
